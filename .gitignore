@@ -4,3 +4,4 @@ __pycache__/
 .env
 .lancedb/
 .DS_Store
+*.mp4
