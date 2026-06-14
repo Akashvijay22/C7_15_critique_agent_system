@@ -1,0 +1,12 @@
+streamlit>=1.40
+langgraph>=0.2
+langchain-openai>=0.2
+langchain-core>=0.3
+lancedb>=0.15
+sentence-transformers>=3.0
+pydantic>=2.7
+numpy>=1.26
+pillow>=10.0
+streamlit-paste-button>=0.1
+python-dotenv>=1.0
+pandas>=2.0
